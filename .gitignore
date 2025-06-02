@@ -1,0 +1,17 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+
+# 환경파일
+*.env
+
+# static 하위
+/backend/static/*
+!/backend/static/.gitkeep
+
+# macOS
+.DS_Store
