@@ -1,4 +1,4 @@
-# devtool
+# Labeling-Tool
 
 # git에서 받아서 시작할 때 필요한 작업
 0. python -m venv backend/venv : 가상환경 설치
